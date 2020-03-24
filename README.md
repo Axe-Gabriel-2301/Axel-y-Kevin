@@ -1,5 +1,16 @@
-# proyecto-1
-# Historia de Facebook
+# Facebook
+es una compañía estadounidense que ofrece servicios de redes sociales y medios sociales en línea con sede en Menlo Park, California. Su sitio web fue lanzado el 4 de febrero de 2004 por Mark Zuckerberg, junto con otros estudiantes de la Universidad de Harvard y compañeros de habitación, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz y Chris Hughes. Está disponible en español desde febrero de 2008
+
+# historia
+Mark Zuckerberg creó Facebook durante el periodo en que fue estudiante de la Universidad de Harvard, pero cuando esta red social comenzó a adquirir popularidad, abandonó las clases. En 2003, lanzó en la universidad un sitio web llamado Facemash donde reunía varias fotografías y nombres de estudiantes de Harvard. Este sitio estuvo disponible solo por algunas horas (donde atrajo a 450 usuarios, movilizando 22,000 fotos)
+
+En enero de 2004, los hermanos Winklevoss y Divya Narendra, estudiantes también de Harvard, supieron del incidente de Mark y su Facemash, observaron sus habilidades informáticas y hablaron con él acerca de una idea que ellos tenían para crear un directorio web en línea para el uso de todos los integrantes de las fraternidades en la universidad, hasta entonces dispersos en diversos facebooks, anuarios impresos. Mark aceptó y comenzó a trabajar en ese proyecto, Zuckerberg trabajaba en ese proyecto pero al mismo tiempo trabajaba en uno propio, el thefacebook, que apareció el 4 de febrero de 2004 reflejando a Mark como creador. Seis días después, los hermanos Winklevoss y Narendra abren una demanda pues thefacebook era similar al sitio web en el cual ellos estaban trabajando llamado HarvardConnection.com. Acusaron a Mark de haber retrasado intencionalmente el proyecto de ellos en el cual él era el desarrollador principal, para crear thefacebook, y que por consiguiente su idea fue robada y a ellos no les dio ningún crédito. Thefacebook se hizo muy popular entre todos los estudiantes de Harvard y pronto creció más, hasta llegar a otras instituciones y alcanzando a todas las universidades de la Ivy League.
+
+# expansion de facebook
+
+Facebook comenzó a permitir que los estudiantes universitarios agregasen a estudiantes cuyas escuelas no estaban incluidas en el sitio debido a las peticiones de los usuarios. En marzo de 2006, BusinessWeek divulgó que se estaba negociando una adquisición potencial del sitio. Facebook declinó una oferta de 1.000 millones de dólares.
+En mayo de 2006, la red de Facebook se extendió con éxito en la India, con apoyo de institutos de tecnología de aquel país. En junio de 2006, hubo un acuerdo con iTunes Store para que conociera los gustos musicales de los usuarios y ofrecer así un enlace de descarga en su propio sitio. En agosto de 2006, Facebook agregó universidades en Alemania e Israel a su red. También introdujo la importación de blogs de Xanga, LiveJournal o Blogger.
+
+Desde septiembre de 2006, Facebook se abre a todos los usuarios de Internet, a pesar de protestas de gran parte de sus usuarios, ya que perdería la base estudiantil sobre la cual se había mantenido. En julio de 2007, anunció su primera adquisición, Parakey, Inc., de Blake Ross y de Joe Hewitt. En agosto del mismo año se le dedicó la portada de la prestigiosa revista Newsweek; además de una integración con YouTube.
 
 
-# Cuando se creo?
